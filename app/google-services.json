@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248418020210",
+    "firebase_url": "https://auto-call-record-58e22.firebaseio.com",
+    "project_id": "auto-call-record-58e22",
+    "storage_bucket": "auto-call-record-58e22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248418020210:android:c0b1d82e0f92fc86e14beb",
+        "android_client_info": {
+          "package_name": "com.softvally.recoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248418020210-b4nh4nr19cojrerdfalq6e0jj2rn6qtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3C7eOiUVslQjOXLxVRM4KtYVaQKM7MCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248418020210-b4nh4nr19cojrerdfalq6e0jj2rn6qtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
